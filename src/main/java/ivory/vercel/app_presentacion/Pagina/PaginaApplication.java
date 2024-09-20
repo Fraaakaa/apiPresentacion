@@ -1,0 +1,13 @@
+package ivory.vercel.app_presentacion.Pagina;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PaginaApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PaginaApplication.class, args);
+	}
+
+}
